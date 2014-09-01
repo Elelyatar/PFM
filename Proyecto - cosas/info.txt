@@ -1,0 +1,1 @@
+Carpeta para cosas que no tengan que ir en el proyecto de Unity (photoshop, max, etc)
